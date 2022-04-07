@@ -65,7 +65,14 @@ namespace RestAPI.Controllers
             }
 
             intervention.Status = interventionUpdate.Status;
-            intervention.StartDate = DateTime.Now;
+            if (intervention.Status == "inprogress" || intervention.Status == "InProgress" || intervention.Status == "inProgress" || intervention.Status == "Inprogress")
+            {
+                intervention.StartDate = DateTime.Now;
+            }
+            else if (intervention.Status == "completed" || intervention.Status == "Completed")
+            {
+                intervention.EndDate = DateTime.Now;
+            }
 
             try
             {
