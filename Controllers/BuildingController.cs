@@ -14,9 +14,9 @@ namespace RestAPI.Controllers
     [ApiController]
     public class BuildingController : ControllerBase
     {
-        private readonly myapp_developmentContext _context;
+        private readonly weverMysqlContext _context;
 
-        public BuildingController(myapp_developmentContext context)
+        public BuildingController(weverMysqlContext context)
         {
             _context = context;
         }

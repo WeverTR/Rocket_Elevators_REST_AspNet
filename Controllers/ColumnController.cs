@@ -14,9 +14,9 @@ namespace RestAPI.Controllers
     [ApiController]
     public class ColumnController : ControllerBase
     {
-        private readonly myapp_developmentContext _context;
+        private readonly weverMysqlContext _context;
 
-        public ColumnController(myapp_developmentContext context)
+        public ColumnController(weverMysqlContext context)
         {
             _context = context;
         }

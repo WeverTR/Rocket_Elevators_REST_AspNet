@@ -14,9 +14,9 @@ namespace RestAPI.Controllers
     [ApiController]
     public class LeadController : ControllerBase
     {
-        private readonly myapp_developmentContext _context;
+        private readonly weverMysqlContext _context;
 
-        public LeadController(myapp_developmentContext context)
+        public LeadController(weverMysqlContext context)
         {
             _context = context;
         }

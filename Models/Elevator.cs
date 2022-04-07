@@ -5,6 +5,11 @@ namespace RestAPI.Models
 {
     public partial class Elevator
     {
+        public Elevator()
+        {
+            Interventions = new HashSet<Intervention>();
+        }
+
         public long Id { get; set; }
         public string? SerialNumber { get; set; }
         public string? Model { get; set; }
@@ -20,5 +25,6 @@ namespace RestAPI.Models
         public long? ColumnId { get; set; }
 
         public virtual Column? Column { get; set; }
+        public virtual ICollection<Intervention> Interventions { get; set; }
     }
 }

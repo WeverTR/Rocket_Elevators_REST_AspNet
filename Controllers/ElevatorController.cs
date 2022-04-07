@@ -14,9 +14,9 @@ namespace RestAPI.Controllers
     [ApiController]
     public class ElevatorController : ControllerBase
     {
-        private readonly myapp_developmentContext _context;
+        private readonly weverMysqlContext _context;
 
-        public ElevatorController(myapp_developmentContext context)
+        public ElevatorController(weverMysqlContext context)
         {
             _context = context;
         }

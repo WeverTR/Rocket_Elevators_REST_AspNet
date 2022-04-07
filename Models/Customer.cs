@@ -8,10 +8,11 @@ namespace RestAPI.Models
         public Customer()
         {
             Buildings = new HashSet<Building>();
+            Interventions = new HashSet<Intervention>();
         }
 
         public long Id { get; set; }
-        public DateTime creation_date { get; set; }
+        public DateTime? creation_date { get; set; }
         public string? CompanyName { get; set; }
         public string? CompanyContactName { get; set; }
         public string? CompanyContactPhone { get; set; }
@@ -28,5 +29,6 @@ namespace RestAPI.Models
         public virtual Address? Address { get; set; }
         public virtual User? User { get; set; }
         public virtual ICollection<Building> Buildings { get; set; }
+        public virtual ICollection<Intervention> Interventions { get; set; }
     }
 }

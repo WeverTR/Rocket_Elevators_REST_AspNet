@@ -14,9 +14,9 @@ namespace RestAPI.Controllers
     [ApiController]
     public class BatteryController : ControllerBase
     {
-        private readonly myapp_developmentContext _context;
+        private readonly weverMysqlContext _context;
 
-        public BatteryController(myapp_developmentContext context)
+        public BatteryController(weverMysqlContext context)
         {
             _context = context;
         }

@@ -8,6 +8,8 @@ namespace RestAPI.Models
         public Building()
         {
             Batteries = new HashSet<Battery>();
+            BuildingDetails = new HashSet<BuildingDetail>();
+            Interventions = new HashSet<Intervention>();
         }
 
         public long Id { get; set; }
@@ -25,5 +27,7 @@ namespace RestAPI.Models
         public virtual Address? Address { get; set; }
         public virtual Customer? Customer { get; set; }
         public virtual ICollection<Battery> Batteries { get; set; }
+        public virtual ICollection<BuildingDetail> BuildingDetails { get; set; }
+        public virtual ICollection<Intervention> Interventions { get; set; }
     }
 }

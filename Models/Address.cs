@@ -23,6 +23,8 @@ namespace RestAPI.Models
         public string? Notes { get; set; }
         public DateTime CreatedAt { get; set; }
         public DateTime UpdatedAt { get; set; }
+        public string? Lat { get; set; }
+        public string? Lng { get; set; }
 
         public virtual ICollection<Building> Buildings { get; set; }
         public virtual ICollection<Customer> Customers { get; set; }

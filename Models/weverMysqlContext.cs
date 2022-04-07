@@ -5,32 +5,41 @@ using Microsoft.EntityFrameworkCore.Metadata;
 
 namespace RestAPI.Models
 {
-    public partial class myapp_developmentContext : DbContext
+    public partial class weverMysqlContext : DbContext
     {
-        public myapp_developmentContext()
+        public weverMysqlContext()
         {
         }
 
-        public myapp_developmentContext(DbContextOptions<myapp_developmentContext> options)
+        public weverMysqlContext(DbContextOptions<weverMysqlContext> options)
             : base(options)
         {
         }
-
         public virtual DbSet<Address> Addresses { get; set; } = null!;
         public virtual DbSet<Battery> Batteries { get; set; } = null!;
         public virtual DbSet<Building> Buildings { get; set; } = null!;
+        public virtual DbSet<BuildingDetail> BuildingDetails { get; set; } = null!;
         public virtual DbSet<Column> Columns { get; set; } = null!;
         public virtual DbSet<Customer> Customers { get; set; } = null!;
         public virtual DbSet<Elevator> Elevators { get; set; } = null!;
         public virtual DbSet<Employee> Employees { get; set; } = null!;
+        public virtual DbSet<Intervention> Interventions { get; set; } = null!;
         public virtual DbSet<Lead> Leads { get; set; } = null!;
+        public virtual DbSet<Quote> Quotes { get; set; } = null!;
+        public virtual DbSet<SchemaMigration> SchemaMigrations { get; set; } = null!;
         public virtual DbSet<User> Users { get; set; } = null!;
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            if (!optionsBuilder.IsConfigured)
+            {
+#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
+                optionsBuilder.UseMySql("server=localhost;database=weverMysql;user=wevertr;password=3090", Microsoft.EntityFrameworkCore.ServerVersion.Parse("8.0.28-mysql"));
+            }
+        }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.UseCollation("utf8_general_ci")
-                .HasCharSet("utf8");
-
             modelBuilder.Entity<Address>(entity =>
             {
                 entity.ToTable("addresses");
@@ -52,6 +61,14 @@ namespace RestAPI.Models
                 entity.Property(e => e.Entity)
                     .HasMaxLength(255)
                     .HasColumnName("entity");
+
+                entity.Property(e => e.Lat)
+                    .HasMaxLength(255)
+                    .HasColumnName("lat");
+
+                entity.Property(e => e.Lng)
+                    .HasMaxLength(255)
+                    .HasColumnName("lng");
 
                 entity.Property(e => e.Notes)
                     .HasColumnType("text")
@@ -198,6 +215,38 @@ namespace RestAPI.Models
                     .WithMany(p => p.Buildings)
                     .HasForeignKey(d => d.CustomerId)
                     .HasConstraintName("fk_rails_c29cbe7fb8");
+            });
+
+            modelBuilder.Entity<BuildingDetail>(entity =>
+            {
+                entity.ToTable("building_details");
+
+                entity.HasIndex(e => e.BuildingId, "index_building_details_on_building_id");
+
+                entity.Property(e => e.Id).HasColumnName("id");
+
+                entity.Property(e => e.BuildingId).HasColumnName("building_id");
+
+                entity.Property(e => e.CreatedAt)
+                    .HasColumnType("datetime")
+                    .HasColumnName("created_at");
+
+                entity.Property(e => e.InfoKey)
+                    .HasMaxLength(255)
+                    .HasColumnName("info_key");
+
+                entity.Property(e => e.UpdatedAt)
+                    .HasColumnType("datetime")
+                    .HasColumnName("updated_at");
+
+                entity.Property(e => e.Value)
+                    .HasMaxLength(255)
+                    .HasColumnName("value");
+
+                entity.HasOne(d => d.Building)
+                    .WithMany(p => p.BuildingDetails)
+                    .HasForeignKey(d => d.BuildingId)
+                    .HasConstraintName("fk_rails_51749f8eac");
             });
 
             modelBuilder.Entity<Column>(entity =>
@@ -413,6 +462,105 @@ namespace RestAPI.Models
                     .HasConstraintName("fk_rails_dcfd3d4fc3");
             });
 
+            modelBuilder.Entity<Intervention>(entity =>
+            {
+                entity.ToTable("interventions");
+
+                entity.HasIndex(e => e.AuthorId, "index_interventions_on_author_id");
+
+                entity.HasIndex(e => e.BatteryId, "index_interventions_on_battery_id");
+
+                entity.HasIndex(e => e.BuildingId, "index_interventions_on_building_id");
+
+                entity.HasIndex(e => e.ColumnId, "index_interventions_on_column_id");
+
+                entity.HasIndex(e => e.CustomerId, "index_interventions_on_customer_id");
+
+                entity.HasIndex(e => e.ElevatorId, "index_interventions_on_elevator_id");
+
+                entity.HasIndex(e => e.EmployeeId, "index_interventions_on_employee_id");
+
+                entity.Property(e => e.Id).HasColumnName("id");
+
+                entity.Property(e => e.AuthorId).HasColumnName("author_id");
+
+                entity.Property(e => e.BatteryId).HasColumnName("battery_id");
+
+                entity.Property(e => e.BuildingId).HasColumnName("building_id");
+
+                entity.Property(e => e.ColumnId).HasColumnName("column_id");
+
+                entity.Property(e => e.CreatedAt)
+                    .HasColumnType("datetime")
+                    .HasColumnName("created_at");
+
+                entity.Property(e => e.CustomerId).HasColumnName("customer_id");
+
+                entity.Property(e => e.ElevatorId).HasColumnName("elevator_id");
+
+                entity.Property(e => e.EmployeeId).HasColumnName("employee_id");
+
+                entity.Property(e => e.EndDate)
+                    .HasColumnType("datetime")
+                    .HasColumnName("end_date");
+
+                entity.Property(e => e.Report)
+                    .HasMaxLength(255)
+                    .HasColumnName("report");
+
+                entity.Property(e => e.Result)
+                    .HasMaxLength(255)
+                    .HasColumnName("result");
+
+                entity.Property(e => e.StartDate)
+                    .HasColumnType("datetime")
+                    .HasColumnName("start_date");
+
+                entity.Property(e => e.Status)
+                    .HasMaxLength(255)
+                    .HasColumnName("status")
+                    .HasDefaultValueSql("'Pending'");
+
+                entity.Property(e => e.UpdatedAt)
+                    .HasColumnType("datetime")
+                    .HasColumnName("updated_at");
+
+                entity.HasOne(d => d.Author)
+                    .WithMany(p => p.InterventionAuthors)
+                    .HasForeignKey(d => d.AuthorId)
+                    .HasConstraintName("fk_rails_6766059600");
+
+                entity.HasOne(d => d.Battery)
+                    .WithMany(p => p.Interventions)
+                    .HasForeignKey(d => d.BatteryId)
+                    .HasConstraintName("fk_rails_268aede6d6");
+
+                entity.HasOne(d => d.Building)
+                    .WithMany(p => p.Interventions)
+                    .HasForeignKey(d => d.BuildingId)
+                    .HasConstraintName("fk_rails_911b4ef939");
+
+                entity.HasOne(d => d.Column)
+                    .WithMany(p => p.Interventions)
+                    .HasForeignKey(d => d.ColumnId)
+                    .HasConstraintName("fk_rails_d05fb241b3");
+
+                entity.HasOne(d => d.Customer)
+                    .WithMany(p => p.Interventions)
+                    .HasForeignKey(d => d.CustomerId)
+                    .HasConstraintName("fk_rails_4242c0f569");
+
+                entity.HasOne(d => d.Elevator)
+                    .WithMany(p => p.Interventions)
+                    .HasForeignKey(d => d.ElevatorId)
+                    .HasConstraintName("fk_rails_11b5a4bd36");
+
+                entity.HasOne(d => d.Employee)
+                    .WithMany(p => p.InterventionEmployees)
+                    .HasForeignKey(d => d.EmployeeId)
+                    .HasConstraintName("fk_rails_2e0d31b7ad");
+            });
+
             modelBuilder.Entity<Lead>(entity =>
             {
                 entity.ToTable("leads");
@@ -447,6 +595,10 @@ namespace RestAPI.Models
                     .HasMaxLength(255)
                     .HasColumnName("email");
 
+                entity.Property(e => e.Filename)
+                    .HasMaxLength(255)
+                    .HasColumnName("filename");
+
                 entity.Property(e => e.Message)
                     .HasColumnType("text")
                     .HasColumnName("message");
@@ -466,6 +618,111 @@ namespace RestAPI.Models
                 entity.Property(e => e.UpdatedAt)
                     .HasColumnType("datetime")
                     .HasColumnName("updated_at");
+            });
+
+            modelBuilder.Entity<Quote>(entity =>
+            {
+                entity.ToTable("quotes");
+
+                entity.Property(e => e.Id).HasColumnName("id");
+
+                entity.Property(e => e.BusinessHours)
+                    .HasMaxLength(255)
+                    .HasColumnName("business_hours");
+
+                entity.Property(e => e.CompanyName)
+                    .HasMaxLength(255)
+                    .HasColumnName("company_name");
+
+                entity.Property(e => e.ContactEmail)
+                    .HasMaxLength(255)
+                    .HasColumnName("contact_email");
+
+                entity.Property(e => e.ContactName)
+                    .HasMaxLength(255)
+                    .HasColumnName("contact_name");
+
+                entity.Property(e => e.CreatedAt)
+                    .HasColumnType("datetime")
+                    .HasColumnName("created_at");
+
+                entity.Property(e => e.DateCreated)
+                    .HasMaxLength(255)
+                    .HasColumnName("date_created");
+
+                entity.Property(e => e.Department)
+                    .HasMaxLength(255)
+                    .HasColumnName("department");
+
+                entity.Property(e => e.ElevatorAmount)
+                    .HasMaxLength(255)
+                    .HasColumnName("elevator_amount");
+
+                entity.Property(e => e.ElevatorTotalPrice)
+                    .HasMaxLength(255)
+                    .HasColumnName("elevator_total_price");
+
+                entity.Property(e => e.ElevatorUnitPrice)
+                    .HasMaxLength(255)
+                    .HasColumnName("elevator_unit_price");
+
+                entity.Property(e => e.FinalPrice)
+                    .HasMaxLength(255)
+                    .HasColumnName("final_price");
+
+                entity.Property(e => e.InstallationFees)
+                    .HasMaxLength(255)
+                    .HasColumnName("installation_fees");
+
+                entity.Property(e => e.MaximumOccupancy)
+                    .HasMaxLength(255)
+                    .HasColumnName("maximum_occupancy");
+
+                entity.Property(e => e.NumberOfApartments)
+                    .HasMaxLength(255)
+                    .HasColumnName("number_of_apartments");
+
+                entity.Property(e => e.NumberOfBasements)
+                    .HasMaxLength(255)
+                    .HasColumnName("number_of_basements");
+
+                entity.Property(e => e.NumberOfCompanies)
+                    .HasMaxLength(255)
+                    .HasColumnName("number_of_companies");
+
+                entity.Property(e => e.NumberOfCorporations)
+                    .HasMaxLength(255)
+                    .HasColumnName("number_of_corporations");
+
+                entity.Property(e => e.NumberOfElevators)
+                    .HasMaxLength(255)
+                    .HasColumnName("number_of_elevators");
+
+                entity.Property(e => e.NumberOfFloors)
+                    .HasMaxLength(255)
+                    .HasColumnName("number_of_floors");
+
+                entity.Property(e => e.NumberOfParkingSpots)
+                    .HasMaxLength(255)
+                    .HasColumnName("number_of_parking_spots");
+
+                entity.Property(e => e.ServiceGrade)
+                    .HasMaxLength(255)
+                    .HasColumnName("service_grade");
+
+                entity.Property(e => e.UpdatedAt)
+                    .HasColumnType("datetime")
+                    .HasColumnName("updated_at");
+            });
+
+            modelBuilder.Entity<SchemaMigration>(entity =>
+            {
+                entity.HasKey(e => e.Version)
+                    .HasName("PRIMARY");
+
+                entity.ToTable("schema_migrations");
+
+                entity.Property(e => e.Version).HasColumnName("version");
             });
 
             modelBuilder.Entity<User>(entity =>

@@ -8,6 +8,7 @@ namespace RestAPI.Models
         public Battery()
         {
             Columns = new HashSet<Column>();
+            Interventions = new HashSet<Intervention>();
         }
 
         public long Id { get; set; }
@@ -26,5 +27,6 @@ namespace RestAPI.Models
         public virtual Building? Building { get; set; }
         public virtual Employee? Employee { get; set; }
         public virtual ICollection<Column> Columns { get; set; }
+        public virtual ICollection<Intervention> Interventions { get; set; }
     }
 }
