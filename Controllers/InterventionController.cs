@@ -65,7 +65,7 @@ namespace RestAPI.Controllers
             }
 
             intervention.Status = interventionUpdate.Status;
-            intervention.StartDate = new DateTime();
+            intervention.StartDate = DateTime.Now;
 
             try
             {
