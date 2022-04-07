@@ -1,798 +1,265 @@
-<<<<<<< HEAD
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\publish\web.config
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\appsettings.Development.json
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\appsettings.json
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\publish\appsettings.Development.json
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\publish\appsettings.json
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\publish\RestAPI.deps.json
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\publish\RestAPI.runtimeconfig.json
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\RestAPI.exe
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\RestAPI.deps.json
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\RestAPI.runtimeconfig.json
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\RestAPI.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\RestAPI.pdb
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\BouncyCastle.Crypto.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Google.Protobuf.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Humanizer.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\K4os.Compression.LZ4.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\K4os.Hash.xxHash.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\MessagePack.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\MessagePack.Annotations.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.Build.Locator.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\dotnet-ef.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.OpenApi.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\MySql.Data.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Ubiety.Dns.Core.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ZstdNet.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\MySqlConnector.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Newtonsoft.Json.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\NuGet.Common.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\NuGet.Configuration.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\NuGet.Frameworks.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\NuGet.LibraryModel.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\NuGet.Packaging.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\NuGet.ProjectModel.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\NuGet.Protocol.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\NuGet.Versioning.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\System.Composition.AttributedModel.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\System.Composition.Convention.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\System.Composition.Hosting.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\System.Composition.Runtime.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\System.Composition.TypedParts.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\System.Drawing.Common.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\System.Security.Permissions.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\System.Windows.Extensions.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\obj\Debug\net6.0\RestAPI.csproj.AssemblyReference.cache
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\obj\Debug\net6.0\RestAPI.GeneratedMSBuildEditorConfig.editorconfig
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\obj\Debug\net6.0\RestAPI.AssemblyInfoInputs.cache
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\obj\Debug\net6.0\RestAPI.AssemblyInfo.cs
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\obj\Debug\net6.0\RestAPI.csproj.CoreCompileInputs.cache
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\obj\Debug\net6.0\RestAPI.MvcApplicationPartsAssemblyInfo.cs
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\obj\Debug\net6.0\RestAPI.MvcApplicationPartsAssemblyInfo.cache
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\obj\Debug\net6.0\staticwebassets.build.json
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\obj\Debug\net6.0\staticwebassets.development.json
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\obj\Debug\net6.0\scopedcss\bundle\RestAPI.styles.css
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\obj\Debug\net6.0\RestAPI.csproj.CopyComplete
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\obj\Debug\net6.0\RestAPI.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\obj\Debug\net6.0\refint\RestAPI.dll
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\obj\Debug\net6.0\RestAPI.pdb
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\obj\Debug\net6.0\RestAPI.genruntimeconfig.cache
-\\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\obj\Debug\net6.0\ref\RestAPI.dll
-=======
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/publish/web.config
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/appsettings.Development.json
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/appsettings.json
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/publish/appsettings.Development.json
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/publish/appsettings.json
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/publish/RestAPI.deps.json
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/publish/RestAPI.runtimeconfig.json
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/RestAPI.exe
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/RestAPI.deps.json
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/RestAPI.runtimeconfig.json
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/RestAPI.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/RestAPI.pdb
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/BouncyCastle.Crypto.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Google.Protobuf.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Humanizer.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/K4os.Compression.LZ4.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/K4os.Hash.xxHash.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/MessagePack.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/MessagePack.Annotations.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.Build.Locator.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Features.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.Features.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.DiaSymReader.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.DotNet.Scaffolding.Shared.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/dotnet-ef.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.OpenApi.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.VisualStudio.Debugger.Contracts.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/dotnet-aspnet-codegenerator-design.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/MySql.Data.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Ubiety.Dns.Core.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ZstdNet.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/MySql.EntityFrameworkCore.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/MySqlConnector.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Newtonsoft.Json.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/NuGet.Common.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/NuGet.Configuration.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/NuGet.DependencyResolver.Core.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/NuGet.Frameworks.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/NuGet.LibraryModel.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/NuGet.Packaging.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/NuGet.ProjectModel.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/NuGet.Protocol.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/NuGet.Versioning.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.Design.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/System.Composition.AttributedModel.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/System.Composition.Convention.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/System.Composition.Hosting.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/System.Composition.Runtime.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/System.Composition.TypedParts.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/System.Drawing.Common.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/System.Security.Permissions.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/System.Windows.Extensions.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/runtimes/win-arm/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/runtimes/win-arm64/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/RestAPI.csproj.AssemblyReference.cache
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/RestAPI.GeneratedMSBuildEditorConfig.editorconfig
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/RestAPI.AssemblyInfoInputs.cache
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/RestAPI.AssemblyInfo.cs
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/RestAPI.csproj.CoreCompileInputs.cache
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/RestAPI.MvcApplicationPartsAssemblyInfo.cs
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/RestAPI.MvcApplicationPartsAssemblyInfo.cache
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/staticwebassets.build.json
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/staticwebassets.development.json
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/scopedcss/bundle/RestAPI.styles.css
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/RestAPI.csproj.CopyComplete
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/RestAPI.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/refint/RestAPI.dll
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/RestAPI.pdb
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/RestAPI.genruntimeconfig.cache
-//wsl$/Ubuntu/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/ref/RestAPI.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/publish/web.config
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/appsettings.Development.json
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/publish/appsettings.Development.json
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/publish/appsettings.json
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/publish/RestAPI.deps.json
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/publish/RestAPI.runtimeconfig.json
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/appsettings.json
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/RestAPI
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/RestAPI.deps.json
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/RestAPI.runtimeconfig.json
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/RestAPI.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/RestAPI.pdb
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/BouncyCastle.Crypto.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Google.Protobuf.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Humanizer.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/K4os.Compression.LZ4.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/K4os.Hash.xxHash.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/MessagePack.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/MessagePack.Annotations.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.Build.Locator.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Features.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.Features.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.DiaSymReader.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.DotNet.Scaffolding.Shared.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/dotnet-ef.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.OpenApi.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.VisualStudio.Debugger.Contracts.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/dotnet-aspnet-codegenerator-design.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/MySql.Data.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Ubiety.Dns.Core.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ZstdNet.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/MySql.EntityFrameworkCore.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/MySqlConnector.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Newtonsoft.Json.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/NuGet.Common.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/NuGet.Configuration.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/NuGet.DependencyResolver.Core.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/NuGet.Frameworks.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/NuGet.LibraryModel.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/NuGet.Packaging.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/NuGet.ProjectModel.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/NuGet.Protocol.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/NuGet.Versioning.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.Design.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/System.Composition.AttributedModel.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/System.Composition.Convention.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/System.Composition.Hosting.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/System.Composition.Runtime.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/System.Composition.TypedParts.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/System.Drawing.Common.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/System.Security.Permissions.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/System.Windows.Extensions.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/runtimes/win-arm/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/runtimes/win-arm64/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
-/home/widowslace/Rocket-Elevators-REST/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
-/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/RestAPI.csproj.AssemblyReference.cache
-/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/RestAPI.GeneratedMSBuildEditorConfig.editorconfig
-/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/RestAPI.AssemblyInfoInputs.cache
-/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/RestAPI.AssemblyInfo.cs
-/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/RestAPI.csproj.CoreCompileInputs.cache
-/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/RestAPI.MvcApplicationPartsAssemblyInfo.cs
-/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/RestAPI.MvcApplicationPartsAssemblyInfo.cache
-/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/staticwebassets.build.json
-/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/staticwebassets.development.json
-/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/scopedcss/bundle/RestAPI.styles.css
-/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/RestAPI.csproj.CopyComplete
-/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/RestAPI.dll
-/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/refint/RestAPI.dll
-/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/RestAPI.pdb
-/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/RestAPI.genruntimeconfig.cache
-/home/widowslace/Rocket-Elevators-REST/obj/Debug/net6.0/ref/RestAPI.dll
->>>>>>> test
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\publish\web.config
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\appsettings.json
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\publish\RestAPI.deps.json
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\publish\RestAPI.runtimeconfig.json
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\RestAPI.exe
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\RestAPI.deps.json
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\RestAPI.runtimeconfig.json
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\RestAPI.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\RestAPI.pdb
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\dotnet-ef.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\obj\Debug\net6.0\RestAPI.csproj.AssemblyReference.cache
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\obj\Debug\net6.0\RestAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\obj\Debug\net6.0\RestAPI.AssemblyInfoInputs.cache
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\obj\Debug\net6.0\RestAPI.AssemblyInfo.cs
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\obj\Debug\net6.0\RestAPI.csproj.CoreCompileInputs.cache
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\obj\Debug\net6.0\RestAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\obj\Debug\net6.0\RestAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\obj\Debug\net6.0\scopedcss\bundle\RestAPI.styles.css
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\obj\Debug\net6.0\RestAPI.csproj.CopyComplete
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\obj\Debug\net6.0\RestAPI.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\obj\Debug\net6.0\refint\RestAPI.dll
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\obj\Debug\net6.0\RestAPI.pdb
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\obj\Debug\net6.0\RestAPI.genruntimeconfig.cache
+C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\obj\Debug\net6.0\ref\RestAPI.dll

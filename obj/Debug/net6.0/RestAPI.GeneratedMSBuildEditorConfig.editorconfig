@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 is_global = true
 build_property.TargetFramework = net6.0
 build_property.TargetPlatformMinVersion = 
@@ -9,27 +8,9 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RestAPI
 build_property.RootNamespace = RestAPI
-build_property.ProjectDir = \\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST\
+build_property.ProjectDir = C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = \\wsl$\Ubuntu\home\widowslace\Rocket-Elevators-REST
+build_property.MSBuildProjectDirectory = C:\Users\Troy Wever\Documents\GitHub\Rocket-Elevators-REST
 build_property._RazorSourceGeneratorDebug = 
-=======
-is_global = true
-build_property.TargetFramework = net6.0
-build_property.TargetPlatformMinVersion = 
-build_property.UsingMicrosoftNETSdkWeb = true
-build_property.ProjectTypeGuids = 
-build_property.InvariantGlobalization = 
-build_property.PlatformNeutralAssembly = 
-build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = RestAPI
-build_property.RootNamespace = RestAPI
-build_property.ProjectDir = /home/widowslace/Rocket-Elevators-REST/
-build_property.RazorLangVersion = 6.0
-build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/widowslace/Rocket-Elevators-REST
-build_property._RazorSourceGeneratorDebug = 
->>>>>>> test

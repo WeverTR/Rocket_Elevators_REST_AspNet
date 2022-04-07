@@ -7926,19 +7926,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\haylr\\.nuget\\packages\\": {}
+    "C:\\Users\\Troy Wever\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\wsl$\\Ubuntu\\home\\widowslace\\Rocket-Elevators-REST\\RestAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Troy Wever\\Documents\\GitHub\\Rocket-Elevators-REST\\RestAPI.csproj",
       "projectName": "RestAPI",
-      "projectPath": "\\\\wsl$\\Ubuntu\\home\\widowslace\\Rocket-Elevators-REST\\RestAPI.csproj",
-      "packagesPath": "C:\\Users\\haylr\\.nuget\\packages\\",
-      "outputPath": "\\\\wsl$\\Ubuntu\\home\\widowslace\\Rocket-Elevators-REST\\obj\\",
+      "projectPath": "C:\\Users\\Troy Wever\\Documents\\GitHub\\Rocket-Elevators-REST\\RestAPI.csproj",
+      "packagesPath": "C:\\Users\\Troy Wever\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Troy Wever\\Documents\\GitHub\\Rocket-Elevators-REST\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\haylr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Troy Wever\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
