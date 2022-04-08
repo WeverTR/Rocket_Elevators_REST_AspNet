@@ -4,7 +4,7 @@ using RestAPI.Models;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-var connectionString = "server=http://codeboxx.cq6zrczewpu2.us-east-1.rds.amazonaws.com; port = 3306; database = weverMysql; user = wevertr; password = 3090";
+var connectionString = "server=codeboxx.cq6zrczewpu2.us-east-1.rds.amazonaws.com; port = 3306; database = weverMysql; user = codeboxx; password = Codeboxx1!";
 
 builder.Services.AddDbContext<weverMysqlContext>(options =>
                options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
