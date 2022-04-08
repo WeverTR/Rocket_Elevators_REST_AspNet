@@ -4,7 +4,7 @@ using RestAPI.Models;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-var connectionString = "server=localhost; port = 3306; database = weverMysql; user = wevertr; password = 3090";
+var connectionString = "server=https://rocket-elevators-rest-aspnet.herokuapp.com; database = weverMysql; user = wevertr; password = 3090";
 
 builder.Services.AddDbContext<weverMysqlContext>(options =>
                options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
