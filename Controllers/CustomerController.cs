@@ -23,10 +23,18 @@ namespace RestAPI.Controllers
 
         // GET: api/Customer/getcustomers
         [HttpGet("getcustomers/{email}")]
-        public async Task<ActionResult<IEnumerable<Customer>>> GetCustomers(string email)
+        public async Task<ActionResult<long>> GetCustomers(string email)
         {
             var customers = _context.Customers.Where(c => c.User.Email == email).ToList();
-            return customers;
+
+            if (customers.Count == 0)
+            {
+                return NotFound();
+            }
+            else
+            {
+                return customers[0].Id;
+            }
         }
 
         // // GET: api/Customer/1
