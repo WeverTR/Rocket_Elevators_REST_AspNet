@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Cors;
 using RestAPI.Models;
 
 namespace RestAPI.Controllers
@@ -21,6 +22,7 @@ namespace RestAPI.Controllers
             _context = context;
         }
 
+        [EnableCors("CustomerPortalPolicy")]
         // GET: api/Elevator
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Elevator>>> GetElevators()

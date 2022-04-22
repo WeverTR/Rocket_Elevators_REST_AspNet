@@ -9,6 +9,16 @@ var connectionString = "server=codeboxx.cq6zrczewpu2.us-east-1.rds.amazonaws.com
 builder.Services.AddDbContext<weverMysqlContext>(options =>
                options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("CustomerPortalPolicy",
+        policy =>
+        {
+            policy.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod();
+            // policy.WithOrigins("https://localhost:7041");
+        });
+});
+
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
