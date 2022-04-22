@@ -22,11 +22,11 @@ namespace RestAPI.Controllers
         }
 
         // // GET: api/Battery
-        // [HttpGet]
-        // public async Task<ActionResult<IEnumerable<Battery>>> GetBatteries()
-        // {
-        //     return await _context.Batteries.ToListAsync();
-        // }
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<Battery>>> GetBatteries()
+        {
+            return await _context.Batteries.ToListAsync();
+        }
 
         // // GET: api/Battery/5
         // [HttpGet("{id}")]

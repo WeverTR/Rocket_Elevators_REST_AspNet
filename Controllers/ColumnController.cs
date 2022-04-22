@@ -22,11 +22,11 @@ namespace RestAPI.Controllers
         }
 
         // GET: api/Column
-        // [HttpGet]
-        // public async Task<ActionResult<IEnumerable<Column>>> GetColumns()
-        // {
-        //     return await _context.Columns.ToListAsync();
-        // }
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<Column>>> GetColumns()
+        {
+            return await _context.Columns.ToListAsync();
+        }
 
         // // GET: api/Column/5
         // [HttpGet("{id}")]

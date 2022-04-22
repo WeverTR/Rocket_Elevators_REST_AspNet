@@ -22,11 +22,11 @@ namespace RestAPI.Controllers
         }
 
         // GET: api/Building
-        // [HttpGet]
-        // public async Task<ActionResult<IEnumerable<Building>>> GetBuildings()
-        // {
-        //     return await _context.Buildings.ToListAsync();
-        // }
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<Building>>> GetBuildings()
+        {
+            return await _context.Buildings.ToListAsync();
+        }
 
         // // GET: api/Building/5
         // [HttpGet("{id}")]

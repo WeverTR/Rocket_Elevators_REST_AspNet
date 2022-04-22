@@ -22,11 +22,11 @@ namespace RestAPI.Controllers
         }
 
         // GET: api/Elevator
-        // [HttpGet]
-        // public async Task<ActionResult<IEnumerable<Elevator>>> GetElevators()
-        // {
-        //     return await _context.Elevators.ToListAsync();
-        // }
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<Elevator>>> GetElevators()
+        {
+            return await _context.Elevators.ToListAsync();
+        }
 
         // // GET: api/Elevator/5
         // [HttpGet("{id}")]
