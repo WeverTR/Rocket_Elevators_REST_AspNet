@@ -44,6 +44,15 @@ namespace RestAPI.Controllers
         //     return building;
         // }
 
+        // GET: api/Buildings/bycustomer/5
+        // Returns list of buildings belonging to a customer
+        [EnableCors("CustomerPortalPolicy")]
+        [HttpGet("bycustomer/{customerid}")]
+        public async Task<ActionResult<IEnumerable<Building>>> GetBuildingsByCustomer(long customerid)
+        {
+            return await _context.Buildings.Where(b => b.CustomerId == customerid).ToListAsync();
+        }
+
         // GET: api/Building/interventions
         // Returns list of leads with status not equal to "Running"
         [HttpGet("interventions")]

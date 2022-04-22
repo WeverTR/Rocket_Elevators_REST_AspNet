@@ -31,6 +31,7 @@ namespace RestAPI.Controllers
             return customers;
         }
 
+        [EnableCors("CustomerPortalPolicy")]
         // // GET: api/Customer/1
         [HttpGet("{id}")]
         public async Task<ActionResult<Customer>> GetCustomer(long id)
